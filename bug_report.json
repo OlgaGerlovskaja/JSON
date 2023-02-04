@@ -1,1 +1,10 @@
-
+{
+"ID": "1",
+"Title": "Item "File" with sub-item "Exit" is not implemented in "Menu".",
+"Description": "In drop-down menu "Menu" item "File" with sub-item "Exit" is absent.",
+"Steps_to_reproduse": ["Click on button "Menu","Look at the items in drop-down menu."],
+"Actual_result": "The button "Menu" doesn't have item "File" with sub-item "Exit",
+"Expected_result": "Button "Menu" has item "File" with sub-item "Exit". The app could be closed by selection "File"-"Exit" in  "Menu".",
+"Priority": "Low",
+"Reproduced on": ["Windows 10"]
+}
